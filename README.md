@@ -9,5 +9,3 @@ Damage to the enemy increases with a weapon. Damage to both enemy and player inc
 You can make it even more challenging by clicking the window button to reduce the view window.
 
 Have fun!!!
-
-React and Sass.
